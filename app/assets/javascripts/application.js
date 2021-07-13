@@ -23,6 +23,7 @@
 var title = "javascriptが使えました";
 alert(title);
 
+// マウスクリックイベント（文字を赤に変更）
 $(document).ready(function () {
   $('.jquery').on('click', function(){
     $(this).css('color','red');
