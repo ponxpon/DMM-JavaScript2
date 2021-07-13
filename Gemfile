@@ -63,3 +63,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # jQuery
 gem "jquery-rails"
+gem 'jquery-turbolinks'
