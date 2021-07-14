@@ -1,24 +1,7 @@
-# README
+# DMM WEBCAMPカリキュラム JavaScriptを学ぼう13章
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- 学習内容
+・RailsでのJavaScript、JQueryの使い方
+・JavaScriptでアラートメッセージの表示
+・マウスクリックイベント（文字を赤に変更）
+・Skipprプラグインを使用して、スライドショーを作成
